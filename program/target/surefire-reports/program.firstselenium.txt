@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: program.firstselenium
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 58.683 s - in program.firstselenium

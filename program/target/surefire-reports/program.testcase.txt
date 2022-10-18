@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: program.testcase
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 68.221 s <<< FAILURE! - in program.testcase
+program.testcase.testcase3  Time elapsed: 2.936 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='oxd-icon bi-caret-down-fill oxd-userdropdown-icon']"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06f75623ff33dd0605f1487a4dabf3e7, findElement {using=xpath, value=//*[@class='oxd-icon bi-caret-down-fill oxd-userdropdown-icon']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\kanna\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62479}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62479/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 06f75623ff33dd0605f1487a4dabf3e7
+	at program.testcase.testcase3(testcase.java:49)
+

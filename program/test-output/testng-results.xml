@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39079" started-at="2022-10-14T10:23:19Z" finished-at="2022-10-14T10:23:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39079" started-at="2022-10-14T10:23:19Z" finished-at="2022-10-14T10:23:58Z">
+      <class name="program.webele_actions">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:program.webele_actions@1230f6a]" name="beforetest" is-config="true" duration-ms="15543" started-at="2022-10-14T15:53:19Z" finished-at="2022-10-14T15:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:program.webele_actions@1230f6a]" name="testcase1" duration-ms="5356" started-at="2022-10-14T15:53:35Z" finished-at="2022-10-14T15:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase4()[pri:1, instance:program.webele_actions@1230f6a]" name="testcase4" duration-ms="14145" started-at="2022-10-14T15:53:40Z" finished-at="2022-10-14T15:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:program.webele_actions@1230f6a]" name="aftertest" is-config="true" duration-ms="3947" started-at="2022-10-14T15:53:54Z" finished-at="2022-10-14T15:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- program.webele_actions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
